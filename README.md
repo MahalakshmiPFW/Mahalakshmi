@@ -1,12 +1,19 @@
-## Hi, I'm Mahalakshmi
+## Hi 👋, I'm Mahalakshmi
 
-**Building with code. Dreaming in color.**
+*💻 Building with code. 🎨 Dreaming in color.*  
 
 # 💫 About Me:
-👩🏻‍💻 Computer Science Grad Student at Purdue FW<br>🔭 I’m currently working at ForOurLastNames (FOLN) as a Full Stack SE Intern<br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning PlayWright<br>
+👩🏻‍💻 Computer Science Grad Student at Purdue FW<br>  
+🔭 Full Stack SE Intern at **ForOurLastNames (FOLN)**<br>  
+👯 Always open to collaborating on impactful projects<br>  
+🌱 Currently exploring **PlayWright** for automation & testing<br>  
 
 # ✨ Fun Facts: 
-☕ Coffee aficionado<br>📚 Fiction & fantasy bookworm<br>🌍 Love traveling & exploring new cultures<br>🎨 Self-taught artist
+☕ Coffee aficionado — caffeine is my love language  
+📚 Fiction & fantasy bookworm — can disappear into a novel for hours  
+🌍 Travel & culture enthusiast — collecting stamps on my passport and in my heart  
+🎨 Self-taught artist & painter — I see the world in hex codes and brush strokes  
+🎤 Love singing & watching musicals — music is my second language  
 
 
 ## 🌐 Socials:
