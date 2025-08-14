@@ -3,10 +3,10 @@
 *💻 Building with code. 🎨 Dreaming in color.*  
 
 # 💫 About Me:
-👩🏻‍💻 Computer Science Grad Student at Purdue FW<br>  
-🔭 Full Stack SE Intern at **ForOurLastNames (FOLN)**<br>  
-👯 Always open to collaborating on impactful projects<br>  
-🌱 Currently exploring **PlayWright** for automation & testing<br>  
+👩🏻‍💻 Computer Science Grad Student at Purdue FW
+🔭 Full Stack SE Intern at **ForOurLastNames (FOLN)**
+👯 Always open to collaborating on impactful projects
+🌱 Currently exploring **PlayWright** for automation & testing  
 
 # ✨ Fun Facts: 
 ☕ Coffee aficionado — caffeine is my love language  
